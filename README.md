@@ -13,7 +13,7 @@ The purpose of this refactor was to make the website code cleaner and easier to 
 ## Installation
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-There are no installation steps required for this project. Simply click the link provided: XXXXXXX or you can clone the repository titled Horiseon-Code-Refactor-LaPierre and launch the index.html file in your default browser.
+There are no installation steps required for this project. Simply click the link provided: https://aslapi.github.io/Horiseon-Code-Refactor-LaPierre/ or you can clone the repository titled Horiseon-Code-Refactor-LaPierre and launch the index.html file in your default browser.
 
 ## Usage
 
