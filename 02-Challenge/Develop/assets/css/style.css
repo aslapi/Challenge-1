@@ -87,23 +87,6 @@ p {
     background-color: #2589bd;
 }
 
-/* consolidated aside section formatting to one class instead of three */
-.aside-section {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.aside-section h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.aside-section img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
 /* Consolidated main section formatting to one class instead of three*/
 .main-sections {
     margin-bottom: 20px;
@@ -121,6 +104,23 @@ p {
 .main-sections h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/* consolidated aside section formatting to one class instead of three */
+.aside-section {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.aside-section h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.aside-section img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
 .footer {
