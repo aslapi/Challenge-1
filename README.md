@@ -1,6 +1,3 @@
-# Challenge-1
-Week 1 Challenge
-
 # Horiseon Code Refactor LaPierre
 
 ## Description
