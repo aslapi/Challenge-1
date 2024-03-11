@@ -24,9 +24,9 @@ Once you've either clicked the link or cloned the repository and launched the in
 
 Attached are screenshots of what the website should look like when visiting.
 
-```md
+    ```md
     ![alt text](assets/images/brand-awareness.png)
-
+    ```
 Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
